@@ -1,14 +1,14 @@
 const notes = [
   {
     _id: "1",
-    title: "Day 1 of college",
+    title: "Day 2 of college",
     content:
       "I made a few new friends and introduced myself to a lot of new teachers.",
     category: "College",
   },
   {
     _id: "2",
-    title: "Learned some Node JS",
+    title: "Learned Node JS",
     content: "Learned how to create a server in node JS and my first API",
     category: "Learning",
   },
